@@ -626,6 +626,10 @@ WeedleBackpic:       INCBIN "gfx/pokemon/weedle/back.2bpp.lz"
 UnownHFrontpic:      INCBIN "gfx/pokemon/unown_h/front.animated.2bpp.lz"
 CleffaBackpic:       INCBIN "gfx/pokemon/cleffa/back.2bpp.lz"
 GastlyBackpic:       INCBIN "gfx/pokemon/gastly/back.2bpp.lz"
+
+
+SECTION "Pics 18", ROMX
+
 FearowBackpic:       INCBIN "gfx/pokemon/fearow/back.2bpp.lz"
 MarillBackpic:       INCBIN "gfx/pokemon/marill/back.2bpp.lz"
 DratiniBackpic:      INCBIN "gfx/pokemon/dratini/back.2bpp.lz"
@@ -635,10 +639,6 @@ MetapodBackpic:      INCBIN "gfx/pokemon/metapod/back.2bpp.lz"
 JigglypuffBackpic:   INCBIN "gfx/pokemon/jigglypuff/back.2bpp.lz"
 OddishBackpic:       INCBIN "gfx/pokemon/oddish/back.2bpp.lz"
 UnownDBackpic:       INCBIN "gfx/pokemon/unown_d/back.2bpp.lz"
-
-
-SECTION "Pics 18", ROMX
-
 SpinarakBackpic:     INCBIN "gfx/pokemon/spinarak/back.2bpp.lz"
 RaikouBackpic:       INCBIN "gfx/pokemon/raikou/back.2bpp.lz"
 UnownKFrontpic:      INCBIN "gfx/pokemon/unown_k/front.animated.2bpp.lz"
@@ -681,6 +681,12 @@ GrimbyBackpic:       INCBIN "gfx/pokemon/grimby/back.2bpp.lz"
 UnownSBackpic:       INCBIN "gfx/pokemon/unown_s/back.2bpp.lz"
 UnownRFrontpic:      INCBIN "gfx/pokemon/unown_r/front.animated.2bpp.lz"
 UnownEBackpic:       INCBIN "gfx/pokemon/unown_e/back.2bpp.lz"
+
+
+
+
+SECTION "Pics 19", ROMX
+
 UnownJBackpic:       INCBIN "gfx/pokemon/unown_j/back.2bpp.lz"
 UnownBBackpic:       INCBIN "gfx/pokemon/unown_b/back.2bpp.lz"
 UnownOBackpic:       INCBIN "gfx/pokemon/unown_o/back.2bpp.lz"
@@ -699,10 +705,6 @@ UnownYBackpic:       INCBIN "gfx/pokemon/unown_y/back.2bpp.lz"
 UnownPBackpic:       INCBIN "gfx/pokemon/unown_p/back.2bpp.lz"
 UnownIBackpic:       INCBIN "gfx/pokemon/unown_i/back.2bpp.lz"
 UnownRBackpic:       INCBIN "gfx/pokemon/unown_r/back.2bpp.lz"
-
-
-SECTION "Pics 19", ROMX
-
 ; Seems to be an accidental copy of the previous bank
 BulbasaurBackpic:    INCBIN "gfx/pokemon/bulbasaur/back.2bpp.lz"
 MewBackpic:          INCBIN "gfx/pokemon/mew/back.2bpp.lz"

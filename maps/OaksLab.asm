@@ -193,8 +193,8 @@ FlambearPokeBallScript:
 	iftrue LookAtOakPokeBallScript
 	turnobject OAKSLAB_OAK, DOWN
 	refreshscreen
-	pokepic FLAMBEAR
-	cry FLAMBEAR
+	pokepic UNOWN
+	cry UNOWN
 	waitbutton
 	closepokepic
 	opentext
@@ -206,12 +206,12 @@ FlambearPokeBallScript:
 	writetext ChoseStarterText
 	buttonsound
 	waitsfx
-	pokenamemem FLAMBEAR, MEM_BUFFER_0
+	pokenamemem UNOWN, MEM_BUFFER_0
 	writetext ReceivedStarterText
 	playsound SFX_CAUGHT_MON
 	waitsfx
 	buttonsound
-	givepoke FLAMBEAR, 5, BERRY
+	givepoke UNOWN, 5, BERRY ; FLAMBEAR ; EKotohime
 	closetext
 	applymovement OAKSLAB_SILVER, SilverGetCruiseMovement
 	opentext
